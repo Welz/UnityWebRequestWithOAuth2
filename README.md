@@ -2,9 +2,9 @@
 > POST Request with OAuth2 in Unity3D Game Engine.
 
 ## Features
--Request Access and Refresh Tokens
--Store them in PlayerPrefs (unencrypted)
--GET/POST/PUT/DELETE Requests
+- Request Access and Refresh Tokens
+- Store them in PlayerPrefs (unencrypted)
+- GET/POST/PUT/DELETE Requests
 
 ## How To Use
 1. Fill all "Token Values" cells
